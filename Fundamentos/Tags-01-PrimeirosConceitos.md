@@ -2,8 +2,8 @@
 
 #HTML<br>
 -> Significa <em>"Linguagem de Marcação de Hipertexto"</em>, ou seja, não é uma Linguagem de Programação<br>
--> Faz parte do <ins>Desenvolvimento Front-end</ins><br>
--> Os códigos são baseados em <ins>Tags</ins><br>
+-> Faz parte do <em>Desenvolvimento Front-end</em><br>
+-> Os códigos são baseados em <em>Tags</em><br>
 -> Algumas Tags não precisam ter um fechamento de Tag, como o <code>&lt;br&gt;</code>, <code>&lt;hr&gt;</code> e <code>&lt;img&gt;</code>
 
 Exemplos de Tags:	
