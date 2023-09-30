@@ -1,6 +1,6 @@
 <h3 align="center">Primeiros Conceitos do HTML</h3>
 
-#_HTML<br>
+#HTML<br>
 -> Significa <em>"Linguagem de Marcação de Hipertexto"</em>, ou seja, não é uma Linguagem de Programação<br>
 -> Faz parte do <ins>Desenvolvimento Front-end</ins><br>
 -> Os códigos são baseados em <ins>Tags</ins><br>
