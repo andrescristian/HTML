@@ -1,0 +1,31 @@
+Links e Âncoras
+
+#Link Externo
+- É um link que acessa outro site
+<a href="" target="_blank" rel="external">	</a> Para acessar o link em outra janela
+<a href-"" target="_self">	</a> para acessar o link na mesma janela
+
+#Link Interno
+- É um link que acessa outra página do mesmo Servidor e na mesma Pasta
+- Não precisa colocar a URL da página no atributo "href"
+<a href="pag002.html" target="_blank" rel="next">	</a>
+<a href="pag002.html" target="_blank" rel="prev">	</a>
+
+Valores do Atributo "rel":
+rel="next"	--> Indica que este link é para a próxima parte do documento atual  
+rel="prev"	--> Mostra que é para a parte anterior do documento atual
+rel="external"	--> Mostra que é um link que não faz parte do site
+rel="author"	--> É um link para o site do autor do artigo atual
+
+#Links para Download
+
+<a href="CaminhoDoArquivo" download="ArquivoPraBaixar" type="Tipo de Arquivo Que Será Baixado"
+
+Exemplos:
+< href="arquivos/MeuLivro.pdf" download="MeuLivro.pdf" type="aplication/pdf"
+
+Lista dos "Media Types" mais usados:
+application/zip		video/mp4		audio/mpeg
+text/html		video/H264		audio/aac
+text/css		video/JPEG		image/jpeg
+text/javascript		font/ttf		image/png
