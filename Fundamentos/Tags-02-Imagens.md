@@ -39,7 +39,7 @@ Largura: 650<br>
 3º - Usando a tag &lt;img&gt;<br>
 -> Pra eu poder usar imagens no meu site, digitar a tag:
 
-    <img src="" alt="">
+                                                        <img src="" alt="">
 
     src	--> Significa "Sources", onde está a origem do arquivo
     alt	--> Significa "Alternativa", onde ele explica do que se trata a imagem. Este texto será mostrado quando a imagem não for carregada no site
@@ -47,14 +47,10 @@ Largura: 650<br>
 *Dica: Digite "Ctrl + Espaço" dentro do "src", e o VScode vai mostrar a lista dos arquivos que eu tenho salvo<br><br>
 
 4º - Favicon<br>
-
 -> É a imagem que fica no cantinho da aba aberta do site<br>
 -> É bom não ter muitos detalhes na imagem<br>
-
 ->Tag para usar a imagem Favicon:
 
-    <link rel="shortcut icon" href="Favicon.ico" type="image/x-icon">
+                                    <link rel="shortcut icon" href="Favicon.ico" type="image/x-icon">
 
--> Colocar o arquivo .ico na parte do "href" 
-
-
+-> Colocar o arquivo .ico na parte do "href"
