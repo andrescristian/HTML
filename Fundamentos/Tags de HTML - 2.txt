@@ -1,0 +1,17 @@
+Direitos Autorais de Imagens
+
+- Uma Imagem é um conjunto de pontos
+- É bom ter cuidado com o tamanho das imagens que serão colocadas no site (Ex: Imagem pesada com 20MB)
+- Consultar no Google em: Ferramentas --> Direitos de Uso --> Marcadas para reutilização com modificação
+- Sites para usar imagens:
+1º unsplash.com
+2º pexels.com
+- Usar pra tamanhos e formatos os programas: gimp.org, photoshop, etc
+
+Principais formatos de arquivos para imagens:
+- .jpeg	--> É um formato para compactar uma imagem
+- .png	--> É um formato que permite transparência(sem fundo) e animação, que foi criado pra substituir o .gif
+- .gif
+- .tif
+- .svg
+
